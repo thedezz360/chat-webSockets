@@ -6,7 +6,7 @@ import { createServer } from "node:http";
 
 import {dbModel} from "./database/mongodb/mongodb.js";
 
-import "dotenv/config.js";
+// import "dotenv/config.js";
 
 
 const port = process.env.PORT ?? 3000;

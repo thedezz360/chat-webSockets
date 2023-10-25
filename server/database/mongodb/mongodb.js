@@ -1,5 +1,5 @@
 import { MongoClient, ServerApiVersion, ObjectId } from "mongodb";
-import "dotenv/config.js";
+// import "dotenv/config.js";
 const uri =  process.env.MONGO_URI;
 
 // create a mongoClient

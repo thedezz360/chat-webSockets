@@ -1,6 +1,6 @@
 
 
-/* global use, db, ObjectId */
+/* global use, db,  */
 use("chatApp");
 
 // creacion de la coleccion con una validacion
