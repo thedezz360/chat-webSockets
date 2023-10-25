@@ -9,7 +9,7 @@ import {dbModel} from "./database/mongodb/mongodb.js";
 import "dotenv/config.js";
 
 
-const port = process.env.PORT ?? 3001;
+const port = process.env.PORT ?? 3000;
 
 // inicializamos express
 const app = express();
